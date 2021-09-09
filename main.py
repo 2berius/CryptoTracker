@@ -1,5 +1,5 @@
 
-## 2berius' /CrypTracker0/ ##
+## 2berius' CryptoTracker0 ##
 
 from bs4 import BeautifulSoup
 import requests
