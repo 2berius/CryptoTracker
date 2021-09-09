@@ -16,10 +16,13 @@ It's suggested that you run this program through your terminal/command line. The
 Say you have 0.134 Bitcoin in your wallet, and you want to see how much it is worth in dollars, how it translates to other cryptocurrencies, and what the current trading price is. In order to do this, you would run main.py and enter "2" into the first prompt to select Bitcoin as your choice. Then, you would enter "0.134" into the next prompt to lock in the amount of Bitcoin that you want to see the price for. Finally, the program will use the current prices from coingecko.com to tell you how much the amount of Bitcoin you entered is worth at that exact moment, how much Monero and Ethereum you could get for it, and what the current trading price is. All data used comes directly from coingecko.com and is accurate to the exact time you ran the program (maybe delayed by 1-2 seconds but accurate nonetheless).
 
 
-## Future Updates
+## Future Small Updates
 Mainly adding this for myself, but feel free to see what updates are in store.
 
 - Cap results to 4-6 decimal places, maximum (.format()).
 - Re-organize the final output (order is ugly).
 - ADD BETTER COMMENTS (I know, my comments are virtually non-existent and bad).
 - Change to Yahoo Finance (perhaps?)
+
+## Future LARGE Updates
+- Create a GUI through Tkinter
