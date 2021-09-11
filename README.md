@@ -1,5 +1,5 @@
 # CryptoTracker
-A Python script that scans coingecko.com for Bitcoin, Ethereum, and Monero prices, and allows the user to input amount values through their terminal/command line.
+A Python script that scrapes coingecko.com for Bitcoin, Ethereum, and Monero prices, and allows the user to input amount values through their terminal/command line.
 
 
 ## How to Use
